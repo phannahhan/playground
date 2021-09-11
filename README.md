@@ -1,6 +1,5 @@
 # Playground
-# Courses: Computational Neuroscience, Systems Development, Music Engineering, Sleep, Conflict Resolution
-
+##  Hannah Phan
 A place to play with `git`.
 
 ### Fall 2021
